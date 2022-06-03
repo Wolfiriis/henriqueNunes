@@ -1,0 +1,15 @@
+C:\Users\henry\Desktop\searchBar\searchBar\bin\Debug\net6.0\searchBar.exe
+C:\Users\henry\Desktop\searchBar\searchBar\bin\Debug\net6.0\searchBar.deps.json
+C:\Users\henry\Desktop\searchBar\searchBar\bin\Debug\net6.0\searchBar.runtimeconfig.json
+C:\Users\henry\Desktop\searchBar\searchBar\bin\Debug\net6.0\searchBar.dll
+C:\Users\henry\Desktop\searchBar\searchBar\bin\Debug\net6.0\searchBar.pdb
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.AssemblyInfo.cs
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.dll
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\refint\searchBar.dll
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.pdb
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\searchBar.genruntimeconfig.cache
+C:\Users\henry\Desktop\searchBar\searchBar\obj\Debug\net6.0\ref\searchBar.dll
