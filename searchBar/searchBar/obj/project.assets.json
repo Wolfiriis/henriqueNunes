@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\Desktop\\searchBar\\searchBar\\searchBar.csproj",
+      "projectUniqueName": "C:\\Users\\henry\\Documents\\GitHub\\henriqueNunes\\searchBar\\searchBar\\searchBar.csproj",
       "projectName": "searchBar",
-      "projectPath": "C:\\Users\\henry\\Desktop\\searchBar\\searchBar\\searchBar.csproj",
+      "projectPath": "C:\\Users\\henry\\Documents\\GitHub\\henriqueNunes\\searchBar\\searchBar\\searchBar.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\Desktop\\searchBar\\searchBar\\obj\\",
+      "outputPath": "C:\\Users\\henry\\Documents\\GitHub\\henriqueNunes\\searchBar\\searchBar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

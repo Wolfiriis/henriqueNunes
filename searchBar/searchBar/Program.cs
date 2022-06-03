@@ -21,6 +21,7 @@ namespace searchBar
             List<string> lista = palavras.ToList();
 
             Console.WriteLine(String.Join("\n", lista));
+
             Console.WriteLine("\n ------------------ \n");
 
             Console.WriteLine("Escolha uma opção:");
